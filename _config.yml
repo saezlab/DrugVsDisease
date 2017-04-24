@@ -12,20 +12,20 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Tool-Name
+title:            Drug vs Disease
 tagline:          Tagline for website
-description:      "Short description of the tool, for the sidebar"
-#url:              https://github.com/saezlab/projectDocumentationTemplate
-baseurl:          /projectDocumentationTemplate/
-toollogo:         /projectDocumentationTemplate/tool_logo.png
+description:      "An R and Cytoscape plug-in for comparing Drug and Disease profiles"
+#url:              https://github.com/saezlab/DrugVsDisease
+baseurl:          /DrugVsDisease/
+toollogo:         /DrugVsDisease/tool_logo.png
 
 author:
-  name:           'Author Name'
+  name:           'C. Pacini'
 
 paginate:         5
 
 # Custom vars
-version:          1.0.1
+version:          3.4
 
 github:
-  repo:           https://github.com/saezlab/projectDocumentationTemplate
+  repo:           https://github.com/saezlab/DrugVsDisease

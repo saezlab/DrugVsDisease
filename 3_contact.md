@@ -3,4 +3,13 @@ layout: page
 title: Contact
 ---
 
-Provide contact information.
+Author: C. Pacini
+
+Maintainer: J. Saez-Rodriguez <saezrodriguez at combine.rwth-aachen.de>
+
+Citation:
+
+Pacini, C., Iorio, F., Gonçalves, E., Iskar, M., Klabunde, T., Bork, P., Saez-Rodriguez, J.
+DvD: An R/Cytoscape pipeline for drug repurposing using public repositories of gene expression data.
+Bioinformatics (Oxford, England). Nov 4, Volume 29, Number 1, (2013), p.132-134
+
