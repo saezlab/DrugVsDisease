@@ -19,7 +19,7 @@ _Note: We recommend use the **2.15** version of R_
 source("~/DvDdependencies.R") #where "~/" should be the directory where the source file is stored
 ```
 
-5. To install the DrugVsDiseasedata package. [Download](http://www.ebi.ac.uk/saezrodriguez/DVD/DrugVsDiseasedata_0.99.2.tar.gz)[](#Downloads) the source file DrugVsDiseasedata_0.99.2.tar.gz
+5. To install the DrugVsDiseasedata package. [Download](https://github.com/saezlab/DrugVsDisease/blob/master/data/DrugVsDiseasedata_0.99.2.tar.gz) the source file DrugVsDiseasedata_0.99.2.tar.gz
 
 ```{R}
 install.packages("~/DrugVsDiseasedata_0.99.2.tar.gz",type="source") #note "~/" should point to the directory where the file is saved
