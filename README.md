@@ -4,8 +4,6 @@ Drug versus Disease (DvD) provides a pipeline, available through R or Cytoscape,
 
 ## Installation instructions for R packages
 
-## Installation instructions for R packages
-
 1.  Make sure you have R installed. You can download it from [http://cran.ma.imperial.ac.uk/](http://cran.ma.imperial.ac.uk).
 
 _Note: We recommend use the **2.15** version of R_
