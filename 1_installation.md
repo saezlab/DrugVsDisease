@@ -13,27 +13,27 @@ _Note: We recommend use the **2.15** version of R_
 
 3.  Open R console.
 
-4.  First install the dependencies which are required for the DvD package. [Download](data/DvDdependencies.R)[](#Downloads) the R script DvDdependencies.R, this script will automatically check for and if necessary install R packages required by DvD.
+4.  First install the dependencies which are required for the DvD package. [Download](https://github.com/saezlab/DrugVsDisease/blob/master/data/DvDdependencies.R) the R script DvDdependencies.R, this script will automatically check for and if necessary install R packages required by DvD.
 
 ```{R}
 source("~/DvDdependencies.R") #where "~/" should be the directory where the source file is stored
 ```
 
-5. To install the DrugVsDiseasedata package. [Download](data/DrugVsDiseasedata_0.99.2.tar.gz)[](#Downloads) the source file DrugVsDiseasedata_0.99.2.tar.gz
+5. To install the DrugVsDiseasedata package. [Download](http://www.ebi.ac.uk/saezrodriguez/DVD/DrugVsDiseasedata_0.99.2.tar.gz)[](#Downloads) the source file DrugVsDiseasedata_0.99.2.tar.gz
 
 ```{R}
 install.packages("~/DrugVsDiseasedata_0.99.2.tar.gz",type="source") #note "~/" should point to the directory where the file is saved
 library(DrugVsDiseasedata)
 ```
 
-6. To install the cMap2data package. [Download](data/cMap2data_0.99.1.tar.gz)[](#Downloads) the source file cMap2data_0.99.1.tar.gz
+6. To install the cMap2data package. [Download](http://www.ebi.ac.uk/saezrodriguez/DVD/cMap2data_0.99.1.tar.gz)[](#Downloads) the source file cMap2data_0.99.1.tar.gz
 
 ```{R}
 install.packages("~/cMap2data_0.99.1.tar.gz",type="source") #note "~/" should point to the directory where the file is saved
 library(cMap2data) 
 ```
 
-7.  Finally [download](data/DrugVsDisease_1.1.2.tar.gz)[](#Downloads) and install the DrugVsDisease package (DrugVsDisease_1.1.2.tar.gz)
+7.  Finally [download](http://www.ebi.ac.uk/saezrodriguez/DVD/DrugVsDisease_1.1.2.tar.gz)[](#Downloads) and install the DrugVsDisease package (DrugVsDisease_1.1.2.tar.gz)
 
 ```{R}
 install.packages("~/DrugVsDisease_1.1.2.tar.gz",type="source") #note "~/" should point to the directory where the file is saved
@@ -57,7 +57,7 @@ _On Windows Rserve may also stop working if an error is encountered._
 _Note: We recommend use the **2.8.3** version of Cytoscape_
 
 3.  Install DvD plugin.
-    1.  Download DvD plug-in jar file [here](data/dvd.jar).
+    1.  Download DvD plug-in jar file [here](http://www.ebi.ac.uk/saezrodriguez/DVD/dvd.jar).
     2.  In Cytoscape go to _'Plugins' -> 'Install Plugin from File'_
     3.  Search for _DvD_ jar file.
     4.  DvD is now installed.
