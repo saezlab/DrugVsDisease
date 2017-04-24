@@ -13,13 +13,13 @@ _Note: We recommend use the **2.15** version of R_
 
 3.  Open R console.
 
-4.  First install the dependencies which are required for the DvD package. [Download](https://github.com/saezlab/DrugVsDisease/blob/master/data/DvDdependencies.R) the R script DvDdependencies.R, this script will automatically check for and if necessary install R packages required by DvD.
+4.  First install the dependencies which are required for the DvD package. [Download](https://github.com/saezlab/DrugVsDisease/raw/master/data/DvDdependencies.R) the R script DvDdependencies.R, this script will automatically check for and if necessary install R packages required by DvD.
 
 ```{R}
 source("~/DvDdependencies.R") #where "~/" should be the directory where the source file is stored
 ```
 
-5. To install the DrugVsDiseasedata package. [Download](https://github.com/saezlab/DrugVsDisease/blob/master/data/DrugVsDiseasedata_0.99.2.tar.gz) the source file DrugVsDiseasedata_0.99.2.tar.gz
+5. To install the DrugVsDiseasedata package. [Download](https://github.com/saezlab/DrugVsDisease/raw/master/data/DrugVsDiseasedata_0.99.2.tar.gz) the source file DrugVsDiseasedata_0.99.2.tar.gz
 
 ```{R}
 install.packages("~/DrugVsDiseasedata_0.99.2.tar.gz",type="source") #note "~/" should point to the directory where the file is saved
@@ -65,5 +65,6 @@ _Note: We recommend use the **2.8.3** version of Cytoscape_
 _IMPORTANT: Before using DvD on Ubuntu you need to type on Terminal_
 
  ```
- sudo apt-get install libcairo2-dev 	sudo apt-get install libxt-dev
+ sudo apt-get install libcairo2-dev 	
+ sudo apt-get install libxt-dev
  ```
