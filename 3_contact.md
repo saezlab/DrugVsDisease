@@ -5,7 +5,7 @@ title: Contact
 
 Author: C. Pacini
 
-Maintainer: J. Saez-Rodriguez <saezrodriguez at combine.rwth-aachen.de>
+Maintainer: J. Saez-Rodriguez \<saezrodriguez at combine.rwth-aachen.de\>
 
 Citation:
 
