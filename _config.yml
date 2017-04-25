@@ -13,7 +13,7 @@ permalink:        pretty
 
 # Setup
 title:            Drug vs Disease
-tagline:          Tagline for website
+tagline:          An R and Cytoscape plug-in for comparing Drug and Disease profiles
 description:      "An R and Cytoscape plug-in for comparing Drug and Disease profiles"
 #url:              https://github.com/saezlab/DrugVsDisease
 baseurl:          /DrugVsDisease/
