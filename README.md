@@ -74,5 +74,6 @@ _Note: We recommend use the **2.8.3** version of Cytoscape_
 _IMPORTANT: Before using DvD on Ubuntu you need to type on Terminal_
 
  ```
- sudo apt-get install libcairo2-dev 	sudo apt-get install libxt-dev
+ sudo apt-get install libcairo2-dev 	
+ sudo apt-get install libxt-dev
  ```
