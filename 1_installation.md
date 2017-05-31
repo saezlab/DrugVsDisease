@@ -26,14 +26,14 @@ install.packages("~/DrugVsDiseasedata_0.99.2.tar.gz",type="source") #note "~/" s
 library(DrugVsDiseasedata)
 ```
 
-6. To install the cMap2data package. [Download](saezlab.org/files/drugvsdisease/cMap2data_0.99.1.tar.gz) the source file cMap2data_0.99.1.tar.gz
+6. To install the cMap2data package. [Download](http://www.saezlab.org/files/drugvsdisease/cMap2data_0.99.1.tar.gz) the source file cMap2data_0.99.1.tar.gz
 
 ```{R}
 install.packages("~/cMap2data_0.99.1.tar.gz",type="source") #note "~/" should point to the directory where the file is saved
 library(cMap2data) 
 ```
 
-7.  Finally [download](saezlab.org/files/drugvsdisease/DrugVsDisease_1.1.2.tar.gz) and install the DrugVsDisease package (DrugVsDisease_1.1.2.tar.gz)
+7.  Finally [download](http://www.saezlab.org/files/drugvsdisease/DrugVsDisease_1.1.2.tar.gz) and install the DrugVsDisease package (DrugVsDisease_1.1.2.tar.gz)
 
 ```{R}
 install.packages("~/DrugVsDisease_1.1.2.tar.gz",type="source") #note "~/" should point to the directory where the file is saved
@@ -57,7 +57,7 @@ _On Windows Rserve may also stop working if an error is encountered._
 _Note: We recommend use the **2.8.3** version of Cytoscape_
 
 3.  Install DvD plugin.
-    1.  Download DvD plug-in jar file [here](saezlab.org/files/drugvsdisease/dvd.jar).
+    1.  Download DvD plug-in jar file [here](http://www.saezlab.org/files/drugvsdisease/dvd.jar).
     2.  In Cytoscape go to _'Plugins' -> 'Install Plugin from File'_
     3.  Search for _DvD_ jar file.
     4.  DvD is now installed.
